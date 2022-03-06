@@ -1,6 +1,4 @@
 #include "engine.h"
-#include "fps.h"
-#include "input.h"
 #include <math.h>
 
 #define PI 3.14159
